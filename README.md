@@ -99,6 +99,15 @@ An application designed for a sweet bakery business, featuring key sections such
 
 <hr>
 
+### Food Delivery 
+A modern, visually appealing, and fully functional food delivery application built with Flutter. This app demonstrates clean architecture, beautiful UI, and smooth animations for a delightful user experience..
+
+
+<p><a href="https://github.com/najeebaslan/food_delivery" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a></p>
+
+<hr>
+
+
 ### Todos 
 A sleek, intuitive Todo List App designed to boost productivity and reduce stress. It offers seamless task management, smart reminders, priority organization, and recurring tasks—helping you stay organized and accomplish more.
 
