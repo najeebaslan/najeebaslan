@@ -32,7 +32,7 @@ Munasab Manager is a comprehensive event management application that allows you 
 
 This application is a Construction Tools Marketplace designed to connect users (clients) with tool owners (managers) in the construction industry. The app allows users to browse, search, and interact with various construction tools and posts, while enabling managers to manage and showcase their tools effectively.
 
-<p><a href="https://play.google.com/store/apps/details?id=najeeb.aslan.meamar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=najeeb.aslan.meamar" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/meamar-e-commerce" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=najeeb.aslan.meamar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ye/app/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D9%86%D8%A7%D8%A1/id6747055050" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/meamar-e-commerce" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
@@ -44,7 +44,7 @@ Crotty is a modern, feature-rich mobile application designed to simplify and str
 <p>
 
   <a href="https://play.google.com/store/apps/details?id=com.network.crotty" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.network.crotty" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/crotty_app" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
+<a href="https://apps.apple.com/ye/app/%D9%83%D8%B1%D9%88%D8%AA%D9%8A/id6747275412" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/crotty_app" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
@@ -53,7 +53,7 @@ Crotty is a modern, feature-rich mobile application designed to simplify and str
 NetWise Pro is a modern Flutter-based application for managing and monitoring wireless networks. It empowers users and administrators with robust tools for network operations, analytics, and security. The app features a clean, responsive UI and supports multiple languages for a global audience.
 
 
-<p> <a href="https://play.google.com/store/apps/details?id=com.network.netwisepro" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.network.netwisepro" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/netwisepro" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
+<p> <a href="https://play.google.com/store/apps/details?id=com.network.netwisepro" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ye/app/%D9%86%D9%8A%D8%AA%D9%88%D8%A7%D9%8A%D8%B2-%D8%A8%D8%B1%D9%88/id6747299953" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/netwisepro" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
@@ -61,7 +61,7 @@ NetWise Pro is a modern Flutter-based application for managing and monitoring wi
 
 This application allows you to add the accused and manage all his data in terms of modification, deletion, etc. It shows alerts when the time available for the accused expires and the time specified for alerting is the first week from the date of adding the accused, then after forty-five days, then also after another forty-five days.
 
-<p><a href="https://play.google.com/store/apps/details?id=najeeb.aslan.issue" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=najeeb.aslan.issue" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/AppIssue" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=najeeb.aslan.issue" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ye/app/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D8%AC%D9%86%D8%A7%D8%A1/id6746951512" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><a href="https://github.com/najeebaslan/AppIssue" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/View%20on%20GitHub-181717.svg?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
