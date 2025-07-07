@@ -120,7 +120,7 @@ A sleek, intuitive Todo List App designed to boost productivity and reduce stres
 
 An admin dashboard for managing RoyalFood's website content, orders, and promotions. Features real-time analytics, menu management, and customer order tracking. Integrates seamlessly with the existing Firebase backend.
 
-<p><a href="https://v0-stable-portfolio-website.vercel.app/projects" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a></p>
+
 
 <hr>
 
