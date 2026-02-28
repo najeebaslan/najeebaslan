@@ -13,6 +13,14 @@
 
 <h2> Samples from my projects </h2>
 
+### Turki-Dabayh | تركي للذبائح
+
+This Turkish app specializes in meat services, supermarkets, and fresh produce. You can easily select and order fresh meat, and the app handles the slaughtering, packaging, and delivery professionally. The app guarantees quality, hygiene, and convenience, while fully adhering to Islamic law. A reliable solution for fresh meat, delivered quickly and safely to your door.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.digishapes.turkieshop" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/om/app/turki-dabayh/id1115628569?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
+
+<hr>
+
 ### Munasab  | مُناسَب
 Munasab is an innovative application designed to streamline the management and booking of services related to events and occasions. Whether you are planning a wedding, corporate event, or any special occasion, A comprehensive app for booking and managing all event services - Event halls, Audio equipment, Koshat, Fashion, Meals services, and Photography studios.
 <p>
@@ -36,6 +44,21 @@ This application is a Construction Tools Marketplace designed to connect users (
 
 <hr>
 
+### Khedmati | خدمتي
+
+Khedmati is a smart smart app connecting service requesters with providers across cities. You can easily request any service, and we connect you with the right person to complete it quickly and securely. The app offers a smooth, reliable experience ensuring your comfort, whether you are busy or out of town,
+
+<p><a href="https://play.google.com/store/apps/details?id=com.khdmty.khdmty&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/khdmty/id6738966616?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
+
+<hr>
+
+### Almaraa | المرعى
+
+Al-Mar'aa is the first app offering fresh, diverse products including meat, poultry, fruits, vegetables, and dates. All products listed undergo medical inspection using the latest devices by skilled food specialists, where items are manually sorted with professional standards to arrive clean, fresh, and packaged to suit customer needs, plus delivered for free and safely to maintain their quality.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.almaraacompany.almaraa&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/almaraa/id1615090430?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
+
+<hr>
 
 ### Crotty | كروتي
 
