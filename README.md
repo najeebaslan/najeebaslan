@@ -28,6 +28,13 @@ Munasab is an innovative application designed to streamline the management and b
 
 <hr>
 
+### Almaraa | المرعى
+
+Al-Mar'aa is the first app offering fresh, diverse products including meat, poultry, fruits, vegetables, and dates. All products listed undergo medical inspection using the latest devices by skilled food specialists, where items are manually sorted with professional standards to arrive clean, fresh, and packaged to suit customer needs, plus delivered for free and safely to maintain their quality.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.almaraacompany.almaraa&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/almaraa/id1615090430?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
+
+<hr>
 
 ### Munasanb-Manager | مُناسَب لمالك الخدمة
 Munasab Manager is a comprehensive event management application that allows you to add your specialized event services and showcase them to clients. From wedding halls to catering, fashion, sound equipment, and more. Our platform supports bilingual functionality (for both service providers and clients) with user-friendly tools and seamless management.
@@ -52,11 +59,12 @@ Khedmati is a smart smart app connecting service requesters with providers acros
 
 <hr>
 
-### Almaraa | المرعى
+### Al-Shatri  | الشاطري
 
-Al-Mar'aa is the first app offering fresh, diverse products including meat, poultry, fruits, vegetables, and dates. All products listed undergo medical inspection using the latest devices by skilled food specialists, where items are manually sorted with professional standards to arrive clean, fresh, and packaged to suit customer needs, plus delivered for free and safely to maintain their quality.
+Al-Shatri for Building Materials is a digital platform specialized in construction materials, connecting suppliers with contractors, real estate developers, and individuals. It offers a seamless experience for browsing, comparing, and purchasing high-quality products. The app ensures reliable sourcing, competitive pricing, and efficient delivery to support your construction needs with transparency and professionalism.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.almaraacompany.almaraa&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/almaraa/id1615090430?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.app.building_materials&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/id6758062056?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></a><p>
 
 <hr>
 
